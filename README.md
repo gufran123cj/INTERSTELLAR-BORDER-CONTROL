@@ -27,12 +27,12 @@ system interface that inspired from the video game “Papers Please”.
 # REQUIREMENTS
 
 Application interface :
-• Choose from available planets.
-• View attributes of the visitor.
-• View planets conditions.
-• Choose to accept or deny the visitor in to the planet.
-• Check current news in the planet.
+- Choose from available planets.
+- View attributes of the visitor.
+- View planets conditions.
+- Choose to accept or deny the visitor in to the planet.
+- Check current news in the planet.
 Background operations:
-• Control operations.
-• Determining the consequences of the decisions.
-• Generating random aliens.
+- Control operations.
+- Determining the consequences of the decisions.
+- Generating random aliens.
