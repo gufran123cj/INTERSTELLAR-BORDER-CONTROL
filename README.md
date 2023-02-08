@@ -32,6 +32,7 @@ Application interface :
 - View planets conditions.
 - Choose to accept or deny the visitor in to the planet.
 - Check current news in the planet.
+
 Background operations:
 - Control operations.
 - Determining the consequences of the decisions.
