@@ -37,3 +37,21 @@ Background operations:
 - Control operations.
 - Determining the consequences of the decisions.
 - Generating random aliens.
+
+
+### IMAGES FROM THE GAME
+
+# MAIN SCREEN
+
+![mainscren](https://user-images.githubusercontent.com/74301873/230927620-4509616b-cfeb-4b9b-8fdb-2067009c031e.png)
+
+# PLANET MENU
+
+![planet](https://user-images.githubusercontent.com/74301873/230927746-386d93ef-d2ed-4b39-bf12-586cd58f07d2.png)
+
+# GAME MENU
+
+![game_menu](https://user-images.githubusercontent.com/74301873/230927811-112efe6d-d57a-46b1-b0e4-a5cac16b1c00.png)
+
+
+
