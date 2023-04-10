@@ -39,11 +39,12 @@ Background operations:
 - Generating random aliens.
 
 
-### IMAGES FROM THE GAME
+### --IMAGES FROM THE GAME--
 
 # MAIN SCREEN
 
-![mainscren](https://user-images.githubusercontent.com/74301873/230927620-4509616b-cfeb-4b9b-8fdb-2067009c031e.png)
+![mainscren](https://user-images.githubusercontent.com/74301873/230928422-65dcc144-d613-480d-865f-f4d96a93e219.png)
+
 
 # PLANET MENU
 
